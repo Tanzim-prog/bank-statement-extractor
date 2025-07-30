@@ -1,0 +1,11 @@
+# data manipulation
+pandas>=1.0
+
+# table extraction from PDFs
+camelot-py[cv]>=0.10.1
+pdfplumber>=0.5.28
+
+# for writing Excel files
+openpyxl>=3.0
+
+# (tkinter, threading, os, re, sys, warnings are all part of the Python stdlib)
